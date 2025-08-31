@@ -1,5 +1,3 @@
-# Aishik Sanyal
-
 <div align="center">
 
 ![Header](./header.svg)
