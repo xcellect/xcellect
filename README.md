@@ -79,5 +79,7 @@ Independent research engineer focused on testable experiments in **perception**,
 </div>
 
 ---
+
 <div align="center">
+
 </div>
