@@ -41,7 +41,7 @@ Independent research engineer focused on testable experiments in **perception**,
 *ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks (DIVANet '22)*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928)
 
-## // technical skills
+<!-- ## // technical skills
 
 <div align="center">
 
@@ -53,14 +53,12 @@ Independent research engineer focused on testable experiments in **perception**,
 - **AI/ML:** PyTorch, CUDA, HuggingFace Transformers, Unsloth, LangChain
 - **Systems:** FastAPI, Redis, Docker/Kubernetes, Azure, Runpod
 - **Languages:** Python, C/C++, JavaScript/TypeScript, Java, Kotlin, Julia, Haskell
-- **Research:** Predictive Coding Transformers, Energy-Based Models, TEM, HTM, ART
+- **Research:** Predictive Coding Transformers, Energy-Based Models, TEM, HTM, ART -->
 
 
-## // gitHub stats
+## // languages
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xcellect&show_icons=true&theme=radical&bg_color=000000&title_color=ff0040&text_color=ff6680&icon_color=ff0040&border_color=ff0040&hide_border=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcellect&layout=compact&theme=radical&bg_color=000000&title_color=ff0040&text_color=ff6680&border_color=ff0040&hide_border=false)
 
