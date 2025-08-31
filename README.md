@@ -26,11 +26,11 @@ Independent research engineer focused on testable experiments in **perception**,
 
 ### // recent publications
 
-<div align="center">
+<!-- <div align="center">
 
 ![Research](./research-viz.svg)
 
-</div>
+</div> -->
 
 
 **Spark: A System for Scientifically Creative Idea Generation** (2025)  
