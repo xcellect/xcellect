@@ -8,11 +8,11 @@
 
 ## // about Me
 
-<div align="center">
+<!-- <div align="center">
 
 ![Bio Card](./bio-card.svg)
 
-</div>
+</div> -->
 
 Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
