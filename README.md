@@ -1,10 +1,5 @@
 <div style="position: relative;">
 
-<!-- UTC Timestamp - Top Left -->
-<!-- <div style="position: absolute; top: 0; left: 0; z-index: 10;">
-  <img src="./timestamp.svg" alt="UTC Time" width="200">
-</div> -->
-<!-- Terminal Metrics - Bottom Left -->
 <div style="flex: 1;">
   <img src="./terminal-metrics.svg" alt="Consciousness Runtime" width="100%">
 </div>
@@ -17,7 +12,7 @@
 
 <div style="flex: 2;">
 
-Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
+Polymath research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
@@ -25,15 +20,8 @@ Independent research engineer focused on testable experiments in **perception**,
 - Agentic AI systems for research automation
 - ARC-AGI-3: https://three.arcprize.org/leaderboard
 
-<!-- **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience -->
-
-
 ### // recent publications
 
-<!-- Loading Bar -->
-<!-- <div align="center">
-  <img src="./loading-bar.svg" alt="Consciousness Bootstrap" width="100%">
-</div> -->
 
 **Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  
@@ -73,18 +61,6 @@ Independent research engineer focused on testable experiments in **perception**,
 [![RunPod](https://img.shields.io/badge/🚀%20RunPod-6B46C1?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 
 </div>
-
-<!-- ### // Languages
-<div align="center">
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)](#)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)](#)
-[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=000000)](#)
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&labelColor=000000)](#) -->
 
 </div>
 
