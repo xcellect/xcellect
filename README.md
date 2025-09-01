@@ -25,7 +25,7 @@ Independent research engineer focused on testable experiments in **perception**,
 - Computational Creativity based Scientific Idea Generation
 - Agentic AI systems for research automation
 
-**Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience, consciousness research
+**Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience
 
 
 <!-- Main Header -->
@@ -35,34 +35,69 @@ Independent research engineer focused on testable experiments in **perception**,
 
 
 
-### // recent publications
+<!-- ### // recent publications -->
 
 <!-- Loading Bar -->
 <!-- <div align="center">
   <img src="./loading-bar.svg" alt="Consciousness Bootstrap" width="100%">
 </div> -->
 
-**Spark: A System for Scientifically Creative Idea Generation** (2025)  
+<!-- **Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  
 [arXiv:2504.20090](https://doi.org/10.48550/arXiv.2504.20090)
 
 **Implementation of a Decentralized Traffic Congestion Avoidance Mechanism for VANETs** (2022)  
 *ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks (DIVANet '22)*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928)
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928) -->
 
-<!-- ## // technical skills
+## // technical skills
 
+### // AI/ML
 <div align="center">
 
-![Tech Skills](./tech-matrix.svg)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)](#)
+[![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000)](#)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![LangChain](https://img.shields.io/badge/🦜🔗%20LangChain-1C3C3C?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 
 </div>
 
-### // core technologies
-- **AI/ML:** PyTorch, CUDA, HuggingFace Transformers, Unsloth, LangChain
-- **Systems:** FastAPI, Redis, Docker/Kubernetes, Azure, Runpod
-- **Languages:** Python, C/C++, JavaScript/TypeScript, Java, Kotlin, Julia, Haskell
-- **Research:** Predictive Coding Transformers, Energy-Based Models, TEM, HTM, ART -->
+### // Systems & Cloud
+<div align="center">
+
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](#)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000)](#)
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=000000)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=000000)](#)
+[![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000)](#)
+
+</div>
+
+### // Languages
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)](#)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)](#)
+[![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=000000)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&labelColor=000000)](#)
+
+</div>
+
+### // Research Focus
+<div align="center">
+
+[![Transformers](https://img.shields.io/badge/🧠%20Predictive%20Coding-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![EBM](https://img.shields.io/badge/⚡%20Energy%20Based%20Models-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![HTM](https://img.shields.io/badge/🌐%20Hierarchical%20Temporal%20Memory-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![ART](https://img.shields.io/badge/🔄%20Adaptive%20Resonance%20Theory-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+
+</div>
 
 
 ## // languages
