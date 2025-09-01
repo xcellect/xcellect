@@ -39,9 +39,9 @@ Independent research engineer focused on testable experiments in **perception**,
 ### // recent publications
 
 <!-- Loading Bar -->
-<div align="center">
+<!-- <div align="center">
   <img src="./loading-bar.svg" alt="Consciousness Bootstrap" width="100%">
-</div>
+</div> -->
 
 **Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  

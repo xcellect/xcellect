@@ -20,7 +20,8 @@
     </filter>
   </defs>
   
-  <rect width="100%" height="60" fill="url(#stripes)" filter="url(#glow)">
+  <!-- Extended background to ensure consistent edges -->
+  <rect x="-80" y="0" width="calc(100% + 160px)" height="60" fill="url(#stripes)" filter="url(#glow)">
     <animateTransform
       attributeName="transform"
       attributeType="XML"
