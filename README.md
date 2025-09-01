@@ -105,7 +105,7 @@ Independent research engineer focused on testable experiments in **perception**,
 
 ## // languages
 
-<div align="center">
+<div align="left">
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcellect&layout=compact&theme=radical&bg_color=000000&title_color=ff0040&text_color=ff6680&border_color=ff0040&hide_border=false)
 
@@ -114,7 +114,7 @@ Independent research engineer focused on testable experiments in **perception**,
 
 ## // connect
 
-<div align="center">
+<div align="left">
 
 [![Email](https://img.shields.io/badge/Email-aishiksanyal@gmail.com-ff0040?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aishiksanyal@gmail.com)
 [![X](https://img.shields.io/badge/X-@xcellect-ff0040?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/xcellect)
