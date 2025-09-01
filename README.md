@@ -28,10 +28,7 @@ Independent research engineer focused on testable experiments in **perception**,
 <!-- **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience -->
 
 
-<!-- Main Header -->
-<div align="center">
-  <img src="./cyberpunk-divider.svg" alt="Header">
-</div>
+
 
 
 
@@ -49,6 +46,11 @@ Independent research engineer focused on testable experiments in **perception**,
 **Implementation of a Decentralized Traffic Congestion Avoidance Mechanism for VANETs** (2022)  
 *ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks (DIVANet '22)*  
 [ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928)
+
+<!-- Main Header -->
+<div align="center">
+  <img src="./cyberpunk-divider.svg" alt="Header">
+</div>
 
 ## // technical skills
 
