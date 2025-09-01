@@ -17,11 +17,10 @@
 
 <div style="flex: 2;">
 
-Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
+Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms using **biology/neuroscience-inspired ML architecture**.
 
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
-- Biology/Neuroscience-inspired ML architecture design
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for research automation
 - ARC-AGI-3: https://three.arcprize.org/leaderboard
