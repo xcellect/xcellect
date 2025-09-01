@@ -1,13 +1,12 @@
 <div style="position: relative;">
 
 <!-- UTC Timestamp - Top Left -->
-<div style="position: absolute; top: 0; left: 0; z-index: 10;">
+<!-- <div style="position: absolute; top: 0; left: 0; z-index: 10;">
   <img src="./timestamp.svg" alt="UTC Time" width="200">
-</div>
-
-<!-- Main Header -->
-<div align="center">
-  <img src="./cyberpunk-divider.svg" alt="Header">
+</div> -->
+<!-- Terminal Metrics - Bottom Left -->
+<div style="flex: 1;">
+  <img src="./terminal-metrics.svg" alt="Consciousness Runtime" width="100%">
 </div>
 
 </div>
@@ -29,13 +28,13 @@ Independent research engineer focused on testable experiments in **perception**,
 **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience, consciousness research
 
 </div>
-
-<!-- Terminal Metrics - Bottom Left -->
-<div style="flex: 1;">
-  <img src="./terminal-metrics.svg" alt="Consciousness Runtime" width="100%">
+<!-- Main Header -->
+<div align="center">
+  <img src="./cyberpunk-divider.svg" alt="Header">
 </div>
 
 </div>
+
 
 ### // recent publications
 
