@@ -17,7 +17,7 @@
 
 <div style="flex: 2;">
 
-Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
+Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
@@ -25,7 +25,7 @@ Independent research engineer focused on testable experiments in **perception**,
 - Computational Creativity based Scientific Idea Generation
 - Agentic AI systems for research automation
 
-**Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience
+<!-- **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience -->
 
 
 <!-- Main Header -->
@@ -35,20 +35,20 @@ Independent research engineer focused on testable experiments in **perception**,
 
 
 
-<!-- ### // recent publications -->
+### // recent publications
 
 <!-- Loading Bar -->
 <!-- <div align="center">
   <img src="./loading-bar.svg" alt="Consciousness Bootstrap" width="100%">
 </div> -->
 
-<!-- **Spark: A System for Scientifically Creative Idea Generation** (2025)  
+**Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  
 [arXiv:2504.20090](https://doi.org/10.48550/arXiv.2504.20090)
 
 **Implementation of a Decentralized Traffic Congestion Avoidance Mechanism for VANETs** (2022)  
 *ACM International Symposium on Design and Analysis of Intelligent Vehicular Networks (DIVANet '22)*  
-[ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928) -->
+[ACM Digital Library](https://dl.acm.org/doi/10.1145/3551662.3560928)
 
 ## // technical skills
 
@@ -96,7 +96,7 @@ Independent research engineer focused on testable experiments in **perception**,
 [![Transformers](https://img.shields.io/badge/🔄%20Transformers-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 [![Predictive Coding](https://img.shields.io/badge/🧠%20Predictive%20Coding-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 [![EBM](https://img.shields.io/badge/⚡%20Energy%20Based%20Models-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-[![Foundation Models](https://img.shields.io/badge/🏗️%20Foundation%20Models-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+<!-- [![Foundation Models](https://img.shields.io/badge/🏗️%20Foundation%20Models-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#) -->
 [![HTM](https://img.shields.io/badge/🌐%20Hierarchical%20Temporal%20Memory-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 [![ART](https://img.shields.io/badge/🔄%20Adaptive%20Resonance%20Theory-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 
