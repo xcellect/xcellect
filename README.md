@@ -63,7 +63,7 @@ Independent research engineer focused on testable experiments in **perception**,
 </div>
 
 ### // systems & cloud
-<div align="center">
+<div align="left">
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](#)
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=000000)](#)
@@ -91,7 +91,7 @@ Independent research engineer focused on testable experiments in **perception**,
 </div>
 
 ### // architectures
-<div align="center">
+<div align="left">
 
 [![Transformers](https://img.shields.io/badge/🔄%20Transformers-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 [![Predictive Coding](https://img.shields.io/badge/🧠%20Predictive%20Coding-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
