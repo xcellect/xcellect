@@ -18,7 +18,7 @@ Polymath research engineer focused on testable experiments in **perception**, **
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for research automation
-- ARC-AGI-3: https://three.arcprize.org/leaderboard
+- ARC-AGI-3 participant: https://three.arcprize.org/leaderboard
 
 ### // recent publications
 
