@@ -1,0 +1,80 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="timeGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ff0040;stop-opacity:0.9" />
+      <stop offset="50%" style="stop-color:#ff1744;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff0040;stop-opacity:0.9" />
+    </linearGradient>
+    
+    <filter id="timestampGlow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge> 
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    
+    <pattern id="scanlines" patternUnits="userSpaceOnUse" width="200" height="2">
+      <rect width="200" height="1" fill="transparent"/>
+      <rect y="1" width="200" height="1" fill="#ff0040" opacity="0.1"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background with cyberpunk styling -->
+  <rect x="5" y="5" width="190" height="50" rx="5" ry="5" 
+        fill="#000000" opacity="0.8" 
+        stroke="url(#timeGradient)" 
+        stroke-width="1"/>
+  
+  <!-- Corner accent -->
+  <polygon points="5,5 20,5 5,20" fill="#ff0040" opacity="0.6"/>
+  
+  <!-- UTC Label -->
+  <text x="15" y="22" font-family="monospace" font-size="8" 
+        fill="#ff1744" opacity="0.7" filter="url(#timestampGlow)">
+    UTC
+  </text>
+  
+  <!-- Date -->
+  <text x="15" y="35" font-family="monospace" font-size="12" 
+        fill="url(#timeGradient)" filter="url(#timestampGlow)" id="dateText">
+    2025-09-01
+  </text>
+  
+  <!-- Time -->
+  <text x="15" y="47" font-family="monospace" font-size="10" 
+        fill="#ff0040" filter="url(#timestampGlow)" id="timeText">
+    04:06:30
+  </text>
+  
+  <!-- Animated scan overlay -->
+  <rect x="5" y="5" width="190" height="50" fill="url(#scanlines)"/>
+  
+  <!-- Blinking cursor -->
+  <rect x="175" y="40" width="2" height="8" fill="#ff0040">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- Glitch effects -->
+  <rect x="5" y="25" width="190" height="1" fill="#ff1744" opacity="0.4">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  
+  <!-- JavaScript for real-time UTC -->
+  <script type="text/javascript">
+    <![CDATA[
+    function updateTime() {
+      const now = new Date();
+      const date = now.toISOString().split('T')[0];
+      const time = now.toISOString().split('T')[1].split('.')[0];
+      
+      document.getElementById('dateText').textContent = date;
+      document.getElementById('timeText').textContent = time;
+    }
+    
+    // Update immediately and then every second
+    updateTime();
+    setInterval(updateTime, 1000);
+    ]]>
+  </script>
+</svg>

@@ -1,16 +1,22 @@
-<div align="center">
+<div style="position: relative;">
 
-![Header](./header.svg)
+<!-- UTC Timestamp - Top Left -->
+<div style="position: absolute; top: 0; left: 0; z-index: 10;">
+  <img src="./timestamp.svg" alt="UTC Time" width="200">
+</div>
+
+<!-- Main Header -->
+<div align="center">
+  <img src="./cyberpunk-divider.svg" alt="Header">
+</div>
 
 </div>
 
 ## // about Me
 
-<!-- <div align="center">
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-![Bio Card](./bio-card.svg)
-
-</div> -->
+<div style="flex: 2;">
 
 Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
@@ -22,14 +28,21 @@ Independent research engineer focused on testable experiments in **perception**,
 
 **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience, consciousness research
 
+</div>
+
+<!-- Terminal Metrics - Bottom Left -->
+<div style="flex: 1;">
+  <img src="./terminal-metrics.svg" alt="Consciousness Runtime" width="100%">
+</div>
+
+</div>
+
 ### // recent publications
 
-<!-- <div align="center">
-
-![Research](./research-viz.svg)
-
-</div> -->
-
+<!-- Loading Bar -->
+<div align="center">
+  <img src="./loading-bar.svg" alt="Consciousness Bootstrap" width="100%">
+</div>
 
 **Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  
