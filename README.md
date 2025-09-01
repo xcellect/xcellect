@@ -17,7 +17,7 @@
 
 <div style="flex: 2;">
 
-Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms using **biology/neuroscience-inspired ML architecture**.
+Independent research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
