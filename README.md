@@ -22,7 +22,7 @@ Independent research engineer focused on testable experiments in **perception**,
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
 - Biology/Neuroscience-inspired ML architecture design
-- Computational Creativity based Scientific Idea Generation
+- Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for research automation
 - ARC-AGI-3: https://three.arcprize.org/leaderboard
 
