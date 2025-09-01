@@ -27,13 +27,12 @@ Independent research engineer focused on testable experiments in **perception**,
 
 **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience, consciousness research
 
-</div>
+
 <!-- Main Header -->
 <div align="center">
   <img src="./cyberpunk-divider.svg" alt="Header">
 </div>
 
-</div>
 
 
 ### // recent publications
