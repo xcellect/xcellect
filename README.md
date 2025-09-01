@@ -24,12 +24,9 @@ Independent research engineer focused on testable experiments in **perception**,
 - Biology/Neuroscience-inspired ML architecture design
 - Computational Creativity based Scientific Idea Generation
 - Agentic AI systems for research automation
+- ARC-AGI-3: https://three.arcprize.org/leaderboard
 
 <!-- **Interests:** Neurophenomenology, philosophy of science, evolutionary biology, theoretical physics, computational neuroscience -->
-
-
-
-
 
 
 ### // recent publications
