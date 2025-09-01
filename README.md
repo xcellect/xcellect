@@ -52,8 +52,8 @@ Independent research engineer focused on testable experiments in **perception**,
 
 ## // technical skills
 
-### // AI/ML
-<div align="center">
+### // ai/ml
+<div align="left">
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=000000)](#)
 [![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=000000)](#)
@@ -62,7 +62,7 @@ Independent research engineer focused on testable experiments in **perception**,
 
 </div>
 
-### // Systems & Cloud
+### // systems & cloud
 <div align="center">
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000)](#)
@@ -76,7 +76,7 @@ Independent research engineer focused on testable experiments in **perception**,
 
 </div>
 
-### // Languages
+<!-- ### // Languages
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000)](#)
@@ -86,18 +86,19 @@ Independent research engineer focused on testable experiments in **perception**,
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)](#)
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=000000)](#)
 [![Julia](https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white&labelColor=000000)](#)
-[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&labelColor=000000)](#)
+[![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white&labelColor=000000)](#) -->
 
 </div>
 
-### // Research Focus
+### // architectures
 <div align="center">
 
-[![Transformers](https://img.shields.io/badge/🧠%20Predictive%20Coding-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-[![EBM](https://img.shields.io/badge/⚡%20Energy%20Based%20Models-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-[![Foundation Models](https://img.shields.io/badge/🏗️%20Foundation%20Models-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-[![HTM](https://img.shields.io/badge/🌐%20Hierarchical%20Temporal%20Memory-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
-[![ART](https://img.shields.io/badge/🔄%20Adaptive%20Resonance%20Theory-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![Transformers](https://img.shields.io/badge/🔄%20Transformers-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![Predictive Coding](https://img.shields.io/badge/🧠%20Predictive%20Coding-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![EBM](https://img.shields.io/badge/⚡%20Energy%20Based%20Models-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![Foundation Models](https://img.shields.io/badge/🏗️%20Foundation%20Models-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![HTM](https://img.shields.io/badge/🌐%20Hierarchical%20Temporal%20Memory-ff0040?style=for-the-badge&logoColor=white&labelColor=000000)](#)
+[![ART](https://img.shields.io/badge/🔄%20Adaptive%20Resonance%20Theory-ff1744?style=for-the-badge&logoColor=white&labelColor=000000)](#)
 
 </div>
 
