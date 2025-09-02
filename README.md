@@ -19,7 +19,7 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for ML experiments automation
 - ARC-AGI-3 participant: https://three.arcprize.org/leaderboard
-- Psychedelics exploration, personal use TMS (0․25 - 2․5 mT), EEG signal → VR input
+- Psychedelics exploration, personal use TMS (0․25 - 2․5 mT), EEG signals → VR input
 
 ### // recent publications
 
