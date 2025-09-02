@@ -21,6 +21,7 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for experiment automation
 - ARC-AGI-3 participant: https://three.arcprize.org/leaderboard
+- Psychedelics exploration, personal use TMS (0․25 - 2․5 mT), EEG signal analyses
 
 ### // recent publications
 
