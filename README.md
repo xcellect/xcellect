@@ -14,7 +14,7 @@
 
 Polymath research engineer focused on testable experiments in **perception**, **attention**, **self-modeling**, **world-modeling**, **self-organizing learning**, and **foundation-model phenomenology** across classical and alternative computing platforms.
 
-Brief research agenda: [Minds Are Software - But Survival Is the Runtime](https://aishiksanyal.substack.com/p/minds-are-software-but-survival-is)
+Testing and engineering agenda for substrate independent consciousness: [Minds Are Software - But Survival Is the Runtime](https://aishiksanyal.substack.com/p/minds-are-software-but-survival-is)
 
 **Experience:**
 - Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
