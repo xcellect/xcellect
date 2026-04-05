@@ -15,14 +15,16 @@
 Testing and engineering agenda for substrate independent consciousness: [Minds Are Software - But Survival Is the Runtime](https://aishiksanyal.substack.com/p/minds-are-software-but-survival-is)
 
 **Experience:**
-- Security Engineer @ Canadian Gov, Ex-CTO & Cofounder @ Spiral Works, Ex-SWE @ IBM
+- Security Engineer @ Canadian Gov // Prev. CTO & Cofounder @ Spiral Works, SWE @ IBM
+- Machine Consciousness research from Computational Functionalism and Complex Systems lens
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for ML experiments automation
-- ARC-AGI-3 participant: https://three.arcprize.org/leaderboard
-- Psychedelics exploration, personal use TMS (0․25 - 2․5 mT), EEG signals → VR input
 
 ### // recent publications
 
+** ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays** (2026)  
+*AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy*  
+[arXiv:2602.23232](https://doi.org/10.48550/arXiv.2602.23232)
 
 **Spark: A System for Scientifically Creative Idea Generation** (2025)  
 *Proceedings of the 16th International Conference on Computational Creativity (ICCC'25)*  
