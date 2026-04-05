@@ -19,10 +19,11 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 - Machine Consciousness research from Computational Functionalism and Complex Systems lens
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for ML experiments automation
+- Misc hobbies: TMS, EEG, VR, Psychedelics, ARC-AGI
 
 ### // recent publications
 
-** ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays** (2026)  
+**ReCoN-Ipsundrum: An Inspectable Recurrent Persistence Loop Agent with Affect-Coupled Control and Mechanism-Linked Consciousness Indicator Assays** (2026)  
 *AAAI 2026 Spring Symposium - Machine Consciousness: Integrating Theory, Technology, and Philosophy*  
 [arXiv:2602.23232](https://doi.org/10.48550/arXiv.2602.23232)
 
