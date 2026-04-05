@@ -6,7 +6,7 @@
 
 </div>
 
-## // about Me
+## // about me
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
 
@@ -14,7 +14,6 @@
 
 Testing and engineering agenda for substrate independent consciousness: [Minds Are Software - But Survival Is the Runtime](https://aishiksanyal.substack.com/p/minds-are-software-but-survival-is)
 
-**Experience:**
 - Security Engineer @ Canadian Gov // Prev. CTO & Cofounder @ Spiral Works, SWE @ IBM
 - Machine Consciousness research from Computational Functionalism and Complex Systems lens
 - Computational Creativity based scientific idea generation using LLMs
