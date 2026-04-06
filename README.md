@@ -79,16 +79,6 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 
 </div>
 
-
-### // languages
-
-<div align="left">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xcellect&layout=compact&theme=radical&bg_color=000000&title_color=ff0040&text_color=ff6680&border_color=ff0040&hide_border=false)
-
-</div>
-
-
 ## // connect
 
 <div align="left">
