@@ -83,7 +83,7 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 
 <div align="left">
 
-[![Email](https://img.shields.io/badge/Email-aishiksanyal@gmail.com-ff0040?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aishik@xcellect.com)
+[![Email](https://img.shields.io/badge/Email-aishik@xcellect.com-ff0040?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:aishik@xcellect.com)
 [![X](https://img.shields.io/badge/X-@xcellect-ff0040?style=for-the-badge&logo=x&logoColor=white&labelColor=000000)](https://x.com/xcellect)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aishik--san-ff0040?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com/in/aishik-san)
 [![Substack](https://img.shields.io/badge/Substack-aishiksanyal-ff0040?style=for-the-badge&logo=substack&logoColor=white&labelColor=000000)](https://aishiksanyal.substack.com/)
