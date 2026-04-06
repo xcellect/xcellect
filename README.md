@@ -18,7 +18,7 @@ Testing and engineering agenda for substrate independent consciousness: [Minds A
 - Machine Consciousness research from Computational Functionalism and Complex Systems lens
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for ML experiments automation
-- Misc hobbies: TMS, EEG, VR, Psychedelics, ARC-AGI
+- Misc hobbies: TMS, EEG, VR, Psychedelics, ARC-AGI, PCB/CAD, Space Engineering
 
 ### // recent publications
 
