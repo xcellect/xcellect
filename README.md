@@ -14,7 +14,7 @@
 
 Testing and engineering agenda for substrate independent consciousness: [Minds Are Software - But Survival Is the Runtime](https://aishiksanyal.substack.com/p/minds-are-software-but-survival-is)
 
-- Security Engineer @ Canadian Gov // Prev. CTO & Cofounder @ Spiral Works, SWE @ IBM
+- Research Engineer @ California Institute for Machine Consciousness // Prev. Security Engineer @ Canadian Gov, CTO & Cofounder @ Spiral Works, SWE @ IBM
 - Machine Consciousness research from Computational Functionalism and Complex Systems lens
 - Computational Creativity based scientific idea generation using LLMs
 - Agentic AI systems for ML experiments automation
